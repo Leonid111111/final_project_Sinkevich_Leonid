@@ -1,14 +1,9 @@
-<?xml version="1.0"
-        encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test name = "Test suite">
-        <groups>
-            <run>
-                <include name=" "/>
-            </run>
-        </groups>
-<!--    <test verbose="2" preserve-order="true" name="C:/final_project_Sinkevich_Leonid/src/test/java">-->
-        <classes/>
+
+<suite name="Subscribe suite" verbose="1" parallel="classes" thread-count="2">
+    <test name="SubscribeTest">
+        <classes>
+            <class name="SubscribeTest"/>
+        </classes>
     </test>
 </suite>

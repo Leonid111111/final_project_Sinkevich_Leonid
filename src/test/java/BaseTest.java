@@ -16,7 +16,7 @@ public abstract class BaseTest {
     public void SetUp() {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
-        BasePage.setWebDriver(driver);
+        BasePage.setThreadLocalDriver(driver);
         driver.get("https://demo.prestashop.com/");
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -39,11 +39,11 @@ public abstract class BaseTest {
 
 
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
-        if (BasePage.getWebDriver() != null) {
-            BasePage.getWebDriver().quit();
-        }
+        BasePage.getDriver().quit();
+            BasePage.getThreadLocalDriver().remove();
+
     }
 }
 

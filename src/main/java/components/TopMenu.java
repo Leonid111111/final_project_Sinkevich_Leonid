@@ -18,27 +18,29 @@ public class TopMenu {
     @FindBy(xpath = "//span[@class='expand-more']")
     private WebElement dropdownLanguageMenu;
 
-    @FindBy(css = "dropdown-menu hidden-sm-down")
-    private List<WebElement> allLanguageListCss;
+    @FindBy(xpath = "//ul[@aria-labelledby='language-selector-label']")
+    private List<WebElement> allLanguageList;
 
-    @FindBy(xpath = "//ul[@class='dropdown-menu']")
-    public List<WebElement> allLanguageList;
+    @FindBy(xpath = "//span[@class='hidden-sm-down']")
+    private WebElement signIn;
 
+
+    public TopMenu appearCurrentUserNameNearCartButtonCheck() {
+        signIn.getText();
+        return this;
+    }
 
     public TopMenu dropdownLanguageMenuClick() {
         dropdownLanguageMenu.click();
         return this;
     }
 
-    public String allLanguageListGet() {
-        return dropdownLanguageMenu.getCssValue("dropdown-menu");
-    }
-    public String qqqqqqqqqqqqq() {
-        List<String> qqqq = new ArrayList<String>();
-        for (WebElement e:allLanguageList) {
-
-            qqqq.add(e.getCssValue("li"));
+    public List<String> allLanguageListGet() {
+        List<String> language = new ArrayList<>();
+        for (WebElement langList : allLanguageList) {
+            language.add(langList.getAttribute("text"));
         }
-        return qqqqqqqqqqqqq();
+        return language;
     }
+
 }

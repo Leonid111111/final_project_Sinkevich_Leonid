@@ -11,7 +11,7 @@ public class SubscribeTest extends BaseTest {
 
         String ExpectedTextNearTheEmailField = "Get our latest news and special sales";
         String ExpectedTextUnderEmailField = "You may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice.";
-        String ExpectedTextSubscribeButton = "SUBSCRIBE";
+        String ExpectedTextSubscribeButton = "Subscribe";
         String ExpectedAllCharacterInUpperCase = "uppercase";
 
         MainPage mainPage = new MainPage();

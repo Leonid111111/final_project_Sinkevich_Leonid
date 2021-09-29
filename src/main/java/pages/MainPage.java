@@ -7,8 +7,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import java.util.ArrayList;
-import java.util.List;
 
 @Getter
 public class MainPage extends BasePage {
@@ -16,8 +14,8 @@ public class MainPage extends BasePage {
     private TopMenu topMenu;
 
     public MainPage() {
-        PageFactory.initElements(getWebDriver(), this);
-        footer = new Footer(getWebDriver());
+        PageFactory.initElements(getDriver(), this);
+        footer = new Footer(getDriver());
     }
 
     @FindBy(xpath = "//i[@class='material-icons']")
