@@ -6,4 +6,19 @@
             <class name="SubscribeTest"/>
         </classes>
     </test>
+    <test name="CheckLanguageTest">
+        <classes>
+            <class name="CheckLanguageTest"/>
+        </classes>
+    </test>
+    <test name="RegistrationWithValidDate">
+        <classes>
+            <class name="RegistrationWithValidDate"/>
+        </classes>
+    </test>
+    <test name="RegistrationWithInvalidData">
+        <classes>
+            <class name="RegistrationWithInvalidData"/>
+        </classes>
+    </test>
 </suite>

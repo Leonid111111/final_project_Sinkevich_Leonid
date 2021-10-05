@@ -140,3 +140,712 @@
 [INFO ] 2021-09-29 22:43:10 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\93.0.4577.63\chromedriver.exe
 [INFO ] 2021-09-29 22:43:46 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 93.0.4577.63 (resolved driver for Chrome 93)
 [INFO ] 2021-09-29 22:43:46 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\93.0.4577.63\chromedriver.exe
+[INFO ] 2021-10-02 15:25:15 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 15:25:15 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 15:59:22 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 15:59:23 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 16:01:32 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 16:01:32 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 16:01:56 CheckLanguageTest:17 :checkLanguage - message:[null]
+[INFO ] 2021-10-02 16:03:50 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 16:03:50 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 16:04:25 CheckLanguageTest:17 :checkLanguage - message:[]
+[INFO ] 2021-10-02 16:09:19 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 16:09:19 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 21:44:17 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 21:44:18 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 21:44:44 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 21:44:46 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 21:50:04 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 21:50:04 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 21:50:29 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 21:50:30 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 21:50:30 RegistrationPage:58 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 21:52:32 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 21:52:32 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 21:52:59 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 21:53:00 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 21:53:00 RegistrationPage:58 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 21:55:13 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 21:55:13 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 21:56:56 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 21:56:56 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 21:57:20 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 21:57:21 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 21:57:22 RegistrationPage:58 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 21:57:22 RegistrationPage:64 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 21:57:22 RegistrationPage:70 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 22:38:45 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 22:38:45 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 22:39:19 RegistrationPage:118 :popUpWithTextGetText - message:Pop-up text on login errorProxy element for: DefaultElementLocator 'By.xpath: //li[@class='alert alert-danger']'
+[INFO ] 2021-10-02 22:41:43 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 22:41:43 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 22:42:09 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 22:42:10 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 22:42:11 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 22:42:11 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 22:42:11 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 22:42:13 RegistrationPage:113 :highlighterGetValue - message:Highlighter frame color data
+[INFO ] 2021-10-02 22:43:25 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 22:43:25 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 22:43:55 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 22:43:56 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 22:43:57 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 22:43:57 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 22:43:58 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 22:44:00 RegistrationPage:118 :popUpWithTextGetText - message:Pop-up text on login error[[ChromeDriver: chrome on WINDOWS (5ccc7459e379f17a09ff011770960d89)] -> xpath: //li[@class='alert alert-danger']]
+[INFO ] 2021-10-02 22:45:16 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 22:45:16 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 22:45:41 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 22:45:41 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 22:45:42 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 22:45:42 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 22:45:42 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 22:45:44 RegistrationPage:118 :popUpWithTextGetText - message:Pop-up text on login error[[ChromeDriver: chrome on WINDOWS (726739df1bfcff8e6e9961c2f974374b)] -> xpath: //li[@class='alert alert-danger']]
+[INFO ] 2021-10-02 22:59:12 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 22:59:12 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 22:59:35 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 22:59:37 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 22:59:37 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 22:59:37 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 22:59:37 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 22:59:39 RegistrationPage:118 :popUpWithTextGetText - message:Pop-up text on login error[[ChromeDriver: chrome on WINDOWS (687e5fe863dca5c53f26ce56b3c20267)] -> xpath: //li[@class='alert alert-danger']]
+[INFO ] 2021-10-02 22:59:40 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 22:59:40 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 22:59:41 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 22:59:41 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 22:59:41 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 22:59:42 RegistrationPage:113 :highlighterGetValue - message:Highlighter frame color data
+[INFO ] 2021-10-02 23:06:30 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 23:06:30 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 23:06:56 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 23:06:57 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 23:06:58 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 23:06:58 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 23:06:58 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 23:07:00 RegistrationPage:118 :popUpWithTextGetText - message:Pop-up text on login error[[ChromeDriver: chrome on WINDOWS (8a170cba4e0e8b6c9b02dbc3f02b580e)] -> xpath: //li[@class='alert alert-danger']]
+[INFO ] 2021-10-02 23:07:01 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 23:07:01 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 23:07:01 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 23:07:01 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 23:07:02 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 23:07:04 RegistrationPage:113 :highlighterGetValue - message:Highlighter frame color data
+[INFO ] 2021-10-02 23:08:45 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 23:08:45 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 23:09:10 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 23:09:11 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 23:09:11 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 23:09:11 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 23:09:12 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 23:09:13 RegistrationPage:118 :popUpWithTextGetText - message:Pop-up text on login error[[ChromeDriver: chrome on WINDOWS (a66e3ec91b8a60c17b8d5f1f521e43df)] -> xpath: //li[@class='alert alert-danger']]
+[INFO ] 2021-10-02 23:09:13 RegistrationPage:113 :highlighterGetValue - message:Highlighter frame color data
+[INFO ] 2021-10-02 23:11:51 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 23:11:51 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 23:12:17 TopMenu:42 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-02 23:12:18 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-02 23:12:18 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-02 23:12:18 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-02 23:12:19 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-02 23:12:20 RegistrationPage:118 :popUpWithTextGetText - message:Pop-up text on login error[[ChromeDriver: chrome on WINDOWS (62c19b9dfecbb57a7cdb80a5602a608b)] -> xpath: //li[@class='alert alert-danger']]
+[INFO ] 2021-10-02 23:12:20 RegistrationPage:113 :highlighterGetValue - message:Highlighter frame color data
+[INFO ] 2021-10-02 23:12:20 RegistrationWithInvalidData:38 :registrationWithInvalidData - message:rgba(255, 76, 76, 1)
+[INFO ] 2021-10-02 23:12:20 RegistrationWithInvalidData:39 :registrationWithInvalidData - message:Invalid format.
+[INFO ] 2021-10-02 23:51:22 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 23:51:22 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 23:52:40 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 23:52:41 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 23:53:40 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 23:53:40 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 23:54:31 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 23:54:31 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-02 23:59:08 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-02 23:59:08 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 00:03:37 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 00:03:37 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 00:04:50 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 00:04:50 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 00:08:29 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 00:08:29 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 00:08:43 TopMenu:49 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-03 00:08:44 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-03 00:08:44 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-03 00:08:44 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-03 00:08:45 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-03 00:15:21 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 00:15:21 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 00:21:35 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 00:21:36 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 00:21:46 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 00:21:46 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 00:21:58 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 00:21:58 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 00:22:09 TopMenu:49 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-03 00:22:10 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-03 00:22:11 RegistrationPage:66 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-03 00:22:11 RegistrationPage:72 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-03 00:22:11 RegistrationPage:78 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-03 00:22:14 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 00:22:14 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 11:33:59 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 11:33:59 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 11:34:46 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 11:34:46 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 12:32:40 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 12:32:40 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 12:33:42 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 12:33:42 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:30:01 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:30:01 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:31:59 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:31:59 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:34:17 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:34:17 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:35:32 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:35:32 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:43:31 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:43:31 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:44:43 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:44:43 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:46:20 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:46:20 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:53:45 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:53:45 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 20:56:44 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 20:56:45 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:02:29 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:02:29 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:13:53 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:13:53 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:17:28 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:17:28 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:18:37 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:18:37 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:18:53 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[Delivery
+Legal Notice
+Terms and conditions of use
+About us
+Secure payment
+Contact us
+Sitemap
+Stores]
+[INFO ] 2021-10-03 21:18:53 CheckCategoriesTest:19 :checkCategoriesOnTheSite - message:[Delivery
+Legal Notice
+Terms and conditions of use
+About us
+Secure payment
+Contact us
+Sitemap
+Stores]
+[INFO ] 2021-10-03 21:20:16 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:20:16 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:20:27 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[CLOTHES]
+[INFO ] 2021-10-03 21:20:27 CheckCategoriesTest:19 :checkCategoriesOnTheSite - message:[CLOTHES]
+[INFO ] 2021-10-03 21:22:16 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:22:16 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:22:35 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[]
+[INFO ] 2021-10-03 21:22:35 CheckCategoriesTest:19 :checkCategoriesOnTheSite - message:[]
+[INFO ] 2021-10-03 21:26:23 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:26:24 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:26:36 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 21:26:36 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[CLOTHES
+MEN
+WOMEN]
+[INFO ] 2021-10-03 21:26:36 CheckCategoriesTest:19 :checkCategoriesOnTheSite - message:[CLOTHES
+MEN
+WOMEN]
+[INFO ] 2021-10-03 21:28:14 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:28:14 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:28:28 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 21:28:28 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[MEN]
+[INFO ] 2021-10-03 21:28:28 CheckCategoriesTest:19 :checkCategoriesOnTheSite - message:[MEN]
+[INFO ] 2021-10-03 21:32:21 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:32:22 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:32:35 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 21:32:35 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[CLOTHES
+MEN
+WOMEN]
+[INFO ] 2021-10-03 21:32:35 CheckCategoriesTest:20 :checkCategoriesOnTheSite - message:[CLOTHES
+MEN
+WOMEN]
+[INFO ] 2021-10-03 21:33:57 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:33:57 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:34:09 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 21:34:09 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[CLOTHES
+MEN
+WOMEN]
+[INFO ] 2021-10-03 21:34:09 CheckCategoriesTest:20 :checkCategoriesOnTheSite - message:[CLOTHES
+MEN
+WOMEN]
+[INFO ] 2021-10-03 21:55:38 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 21:55:38 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 21:55:51 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 21:55:51 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[MEN]
+[INFO ] 2021-10-03 21:55:51 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[MEN, WOMEN]
+[INFO ] 2021-10-03 21:55:51 CheckCategoriesTest:20 :checkCategoriesOnTheSite - message:[MEN, WOMEN]
+[INFO ] 2021-10-03 22:05:42 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:05:42 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:05:54 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:05:54 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[MEN]
+[INFO ] 2021-10-03 22:05:54 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[MEN, WOMEN]
+[INFO ] 2021-10-03 22:05:54 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:05:54 MainPage:78 :subMenuAccessoriesButtonGetText - message:Take list from sub menu button Clothes[MEN]
+[INFO ] 2021-10-03 22:05:54 MainPage:78 :subMenuAccessoriesButtonGetText - message:Take list from sub menu button Clothes[MEN, WOMEN]
+[INFO ] 2021-10-03 22:05:54 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 22:05:55 MainPage:87 :subMenuArtButtonGetText - message:Take list from sub menu button Clothes[MEN]
+[INFO ] 2021-10-03 22:05:55 MainPage:87 :subMenuArtButtonGetText - message:Take list from sub menu button Clothes[MEN, ]
+[INFO ] 2021-10-03 22:05:55 CheckCategoriesTest:33 :checkCategoriesOnTheSite - message:[MEN, WOMEN]
+[INFO ] 2021-10-03 22:11:13 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:11:13 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:11:26 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:11:26 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[MEN]
+[INFO ] 2021-10-03 22:11:26 MainPage:69 :subMenuClothesButtonGetText - message:Take list from sub menu button Clothes[MEN, WOMEN]
+[INFO ] 2021-10-03 22:11:26 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:11:26 MainPage:78 :subMenuAccessoriesButtonGetText - message:Take list from sub menu button Clothes[]
+[INFO ] 2021-10-03 22:11:26 MainPage:78 :subMenuAccessoriesButtonGetText - message:Take list from sub menu button Clothes[, ]
+[INFO ] 2021-10-03 22:11:27 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 22:11:27 CheckCategoriesTest:33 :checkCategoriesOnTheSite - message:[MEN, WOMEN]
+[INFO ] 2021-10-03 22:13:01 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:13:01 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:13:12 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:13:12 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:13:12 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 22:13:12 CheckCategoriesTest:33 :checkCategoriesOnTheSite - message:[MEN, WOMEN]
+[INFO ] 2021-10-03 22:16:19 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:16:19 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:16:26 CheckCategoriesTest:17 :checkCategoriesOnTheSite - message:MEN,WOMEN
+[INFO ] 2021-10-03 22:16:31 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:16:32 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:16:32 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 22:16:42 CheckCategoriesTest:34 :checkCategoriesOnTheSite - message:[MEN, WOMEN]
+[INFO ] 2021-10-03 22:19:21 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:19:21 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:19:28 CheckCategoriesTest:17 :checkCategoriesOnTheSite - message:MEN, WOMEN
+[INFO ] 2021-10-03 22:19:35 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:19:35 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:19:36 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 22:23:16 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:23:16 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:23:26 CheckCategoriesTest:17 :checkCategoriesOnTheSite - message:MEN,WOMEN
+[INFO ] 2021-10-03 22:23:30 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:23:31 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:23:31 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 22:25:56 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:25:56 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:26:03 CheckCategoriesTest:17 :checkCategoriesOnTheSite - message:[MEN, WOMEN]
+[INFO ] 2021-10-03 22:26:10 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:26:10 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:26:10 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 22:28:02 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:28:02 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:28:15 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:28:15 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:28:16 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 22:30:15 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 22:30:15 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 22:30:29 MainPage:49 :hoverMouseOverClothesButton - message:Hovering over the Clothing button
+[INFO ] 2021-10-03 22:30:29 CheckCategoriesTest:24 :checkCategoriesOnTheSite - message:[MEN, WOMEN]
+[INFO ] 2021-10-03 22:30:29 MainPage:55 :hoverMouseOverAccessoriesButton - message:Hovering over the Accessories button
+[INFO ] 2021-10-03 22:30:29 MainPage:61 :hoverMouseOverArtButton - message:Hovering over the Art button
+[INFO ] 2021-10-03 23:30:20 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 23:30:20 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 23:30:33 MainPage:39 :signInClick - message:Click on the SignIn button
+[INFO ] 2021-10-03 23:30:34 LoginPage:31 :createdNewAccountUsedClick - message:Click on the new user registration button
+[INFO ] 2021-10-03 23:30:35 RegistrationPage:70 :genderCheckBoxNewUserClick - message:Click on the gender checkBox, Mr.
+[INFO ] 2021-10-03 23:30:35 RegistrationPage:76 :firstNameFieldNewUserDataEntry - message:Fill in the field with the firstName
+[INFO ] 2021-10-03 23:30:35 RegistrationPage:82 :lastNameFieldNewUserDataEntry - message:Fill in the field with the lastName
+[INFO ] 2021-10-03 23:46:27 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-03 23:46:27 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-03 23:46:39 MainPage:104 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-03 23:46:39 MainPage:104 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-03 23:46:39 MainPage:104 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-03 23:46:39 MainPage:104 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-03 23:46:39 MainPage:104 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-03 23:46:39 MainPage:104 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-03 23:46:39 MainPage:104 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-03 23:46:39 MainPage:104 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-03 23:46:39 CheckPopularProductTest:15 :checkPopularProduct - message:[Hummingbird Printed T-Shirt
+€28.68 €22.94
+-20%
+ Quick view, Hummingbird Printed Sweater
+€43.08 €34.46
+-20%
+ Quick view, The Best Is Yet To Come'...
+€34.80
+ Quick view, The Adventure Begins Framed...
+€34.80
+ Quick view, Today Is A Good Day Framed...
+€34.80
+ Quick view, Mug The Best Is Yet To Come
+€14.28
+ Quick view, Mug The Adventure Begins
+€14.28
+ Quick view, Mug Today Is A Good Day
+€14.28
+ Quick view]
+[INFO ] 2021-10-04 19:38:06 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 19:38:06 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 19:41:00 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 19:41:00 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 19:41:17 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 19:41:17 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 19:41:17 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 19:41:18 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 19:41:18 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 19:41:18 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 19:41:18 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 19:41:19 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:17 :checkPopularProduct - message:[components.Product@6ce15112, components.Product@ba4f370, components.Product@2ba024cb, components.Product@7af0d91b, components.Product@1c7f6e96, components.Product@30ec211a, components.Product@1ac0cdb0, components.Product@6684f7f2]
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:20 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:20 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:20 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:20 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:20 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:20 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:20 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 19:41:19 CheckPopularProductTest:20 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 20:36:08 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 20:36:08 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 20:36:34 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:36:35 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:36:35 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:36:35 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:36:36 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:36:36 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:36:36 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:36:37 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:36:44 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 20:36:45 CheckPopularProductTest:29 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 20:41:50 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 20:41:50 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 20:42:06 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:42:06 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:42:06 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:42:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:42:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:42:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:42:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:42:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:42:12 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 20:42:13 CheckPopularProductTest:29 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 20:49:50 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 20:49:50 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 20:50:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:50:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:50:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:50:07 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:50:08 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:50:08 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:50:08 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:50:08 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 20:50:28 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 20:50:42 CheckPopularProductTest:29 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:01:20 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 21:01:20 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 21:01:37 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 21:01:37 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 21:01:37 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 21:01:37 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 21:01:37 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 21:01:38 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 21:01:38 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 21:01:38 MainPage:105 :mostPopularProductAtList - message:Get attributes of popular products
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:32 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:32 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:32 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:32 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:32 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:32 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:32 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:01:41 CheckPopularProductTest:32 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:29 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 21:48:29 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 21:48:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:48:48 CheckPopularProductTest:28 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:48:48 CheckPopularProductTest:28 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:48:48 CheckPopularProductTest:28 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:48:48 CheckPopularProductTest:28 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:48:48 CheckPopularProductTest:28 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:48:48 CheckPopularProductTest:28 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:48:48 CheckPopularProductTest:28 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:48:48 CheckPopularProductTest:28 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 21:55:41 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 21:55:41 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 21:56:35 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:56:44 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:56:47 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:56:50 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:56:53 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:56:54 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:56:57 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:57:00 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 21:58:05 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 21:58:05 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 22:10:42 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:10:42 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:10:42 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:10:42 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:10:42 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:10:42 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:10:42 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:10:42 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:11:20 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 22:11:20 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 22:14:18 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:14:18 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:14:18 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:14:18 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:14:18 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:14:18 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:14:18 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:14:18 CheckPopularProductTest:20 :checkPopularProduct - message:22.94
+[INFO ] 2021-10-04 22:14:48 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 22:14:49 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 22:16:53 CheckPopularProductTest:19 :checkPopularProduct - message:[components.Product@3e5b2630, components.Product@1c22642d, components.Product@75ac326f, components.Product@736f8837, components.Product@14624acc, components.Product@1b6e4761, components.Product@f453129, components.Product@642ec6]
+[INFO ] 2021-10-04 22:18:41 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 22:18:41 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 22:37:34 CheckPopularProductTest:19 :checkPopularProduct - message:[components.Product@36762234, components.Product@18ff753c, components.Product@2ff62720, components.Product@45295cfd, components.Product@42c9b1ee, components.Product@217c6a1e, components.Product@3fad8636, components.Product@306cfb8a]
+[INFO ] 2021-10-04 22:38:17 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 22:38:17 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 22:42:09 CheckPopularProductTest:19 :checkPopularProduct - message:[components.Product@642ec6, components.Product@656302c, components.Product@6f6a2ac8, components.Product@49809275, components.Product@68b3979d, components.Product@5fd31df7, components.Product@61d150af, components.Product@2c8f65da]
+[INFO ] 2021-10-04 22:46:15 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 22:46:15 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 22:47:48 CheckPopularProductTest:19 :checkPopularProduct - message:[components.Product@2bda7a5b, components.Product@47374fa5, components.Product@289da1bc, components.Product@4e1b5532, components.Product@366bf608, components.Product@4b5cdd07, components.Product@e890591, components.Product@1aaf73b7]
+[INFO ] 2021-10-04 22:56:36 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 22:56:36 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 23:01:56 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 23:01:56 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 23:07:51 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 23:07:51 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 23:09:28 CheckPopularProductTest:19 :checkPopularProduct - message:[components.Product@3b50f432, components.Product@3fe5ad73, components.Product@f83d121, components.Product@165454f7, components.Product@2a19c36b, components.Product@38856d6e, components.Product@299ea986, components.Product@1dd9a3ae]
+[INFO ] 2021-10-04 23:14:29 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 23:14:29 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 23:14:53 CheckPopularProductTest:19 :checkPopularProduct - message:[components.Product@636e4bf8, components.Product@5af38a4a, components.Product@7e1a9173, components.Product@4ca0b9b1, components.Product@5d800a56, components.Product@1be77a76, components.Product@315cf170, components.Product@7878bbdb]
+[INFO ] 2021-10-04 23:17:36 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 23:17:36 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 23:17:53 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 23:17:53 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 23:17:53 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 23:17:53 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 23:17:53 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 23:17:53 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 23:17:53 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 23:17:53 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-04 23:22:21 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 23:22:21 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 23:30:16 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 23:30:16 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-04 23:58:58 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-04 23:58:58 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 00:02:01 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 00:02:02 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 00:03:14 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 00:03:14 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 00:03:29 MainPage:103 :mostPopularProductAtList - message:[components.Product@1c171746]
+[INFO ] 2021-10-05 00:03:29 MainPage:103 :mostPopularProductAtList - message:[components.Product@1c171746, components.Product@5f7cd50e]
+[INFO ] 2021-10-05 00:03:29 MainPage:103 :mostPopularProductAtList - message:[components.Product@1c171746, components.Product@5f7cd50e, components.Product@28b5662d]
+[INFO ] 2021-10-05 00:03:29 MainPage:103 :mostPopularProductAtList - message:[components.Product@1c171746, components.Product@5f7cd50e, components.Product@28b5662d, components.Product@603d25db]
+[INFO ] 2021-10-05 00:03:30 MainPage:103 :mostPopularProductAtList - message:[components.Product@1c171746, components.Product@5f7cd50e, components.Product@28b5662d, components.Product@603d25db, components.Product@c67395]
+[INFO ] 2021-10-05 00:03:30 MainPage:103 :mostPopularProductAtList - message:[components.Product@1c171746, components.Product@5f7cd50e, components.Product@28b5662d, components.Product@603d25db, components.Product@c67395, components.Product@11180750]
+[INFO ] 2021-10-05 00:03:30 MainPage:103 :mostPopularProductAtList - message:[components.Product@1c171746, components.Product@5f7cd50e, components.Product@28b5662d, components.Product@603d25db, components.Product@c67395, components.Product@11180750, components.Product@21a9f95b]
+[INFO ] 2021-10-05 00:03:30 MainPage:103 :mostPopularProductAtList - message:[components.Product@1c171746, components.Product@5f7cd50e, components.Product@28b5662d, components.Product@603d25db, components.Product@c67395, components.Product@11180750, components.Product@21a9f95b, components.Product@6591f8ea]
+[INFO ] 2021-10-05 00:03:35 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 00:03:35 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 00:03:35 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 00:03:35 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 00:03:35 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 00:03:35 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 00:03:35 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 00:03:35 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 13:07:29 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 13:07:30 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 13:10:21 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 13:10:21 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 13:21:24 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 13:21:24 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 13:25:31 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 13:25:31 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 13:30:00 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 13:30:00 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 13:34:00 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 13:34:00 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 15:10:31 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 15:10:31 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 15:10:50 MainPage:103 :mostPopularProductAtList - message:[components.Product@15130002]
+[INFO ] 2021-10-05 15:10:52 MainPage:103 :mostPopularProductAtList - message:[components.Product@15130002, components.Product@1b4ba615]
+[INFO ] 2021-10-05 15:10:52 MainPage:103 :mostPopularProductAtList - message:[components.Product@15130002, components.Product@1b4ba615, components.Product@f793f15]
+[INFO ] 2021-10-05 15:10:52 MainPage:103 :mostPopularProductAtList - message:[components.Product@15130002, components.Product@1b4ba615, components.Product@f793f15, components.Product@51869ad6]
+[INFO ] 2021-10-05 15:10:53 MainPage:103 :mostPopularProductAtList - message:[components.Product@15130002, components.Product@1b4ba615, components.Product@f793f15, components.Product@51869ad6, components.Product@126254ec]
+[INFO ] 2021-10-05 15:10:53 MainPage:103 :mostPopularProductAtList - message:[components.Product@15130002, components.Product@1b4ba615, components.Product@f793f15, components.Product@51869ad6, components.Product@126254ec, components.Product@3dec79f8]
+[INFO ] 2021-10-05 15:10:54 MainPage:103 :mostPopularProductAtList - message:[components.Product@15130002, components.Product@1b4ba615, components.Product@f793f15, components.Product@51869ad6, components.Product@126254ec, components.Product@3dec79f8, components.Product@1d0b447b]
+[INFO ] 2021-10-05 15:10:54 MainPage:103 :mostPopularProductAtList - message:[components.Product@15130002, components.Product@1b4ba615, components.Product@f793f15, components.Product@51869ad6, components.Product@126254ec, components.Product@3dec79f8, components.Product@1d0b447b, components.Product@62b42406]
+[INFO ] 2021-10-05 15:10:59 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:10:59 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:10:59 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:10:59 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:10:59 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:10:59 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:10:59 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:10:59 CheckPopularProductTest:23 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:26:27 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 15:26:28 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 15:26:43 MainPage:100 :mostPopularProductAtList - message:list of popular products with characteristics
+[INFO ] 2021-10-05 15:26:43 MainPage:104 :mostPopularProductAtList - message:[components.Product@4df0d9f8]
+[INFO ] 2021-10-05 15:26:44 MainPage:104 :mostPopularProductAtList - message:[components.Product@4df0d9f8, components.Product@308a9264]
+[INFO ] 2021-10-05 15:33:39 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 15:33:39 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 15:33:48 MainPage:100 :mostPopularProductAtList - message:list of popular products with characteristics
+[INFO ] 2021-10-05 15:33:51 MainPage:104 :mostPopularProductAtList - message:[components.Product@21f91efa]
+[INFO ] 2021-10-05 15:33:52 MainPage:104 :mostPopularProductAtList - message:[components.Product@21f91efa, components.Product@3c9f4376]
+[INFO ] 2021-10-05 15:41:31 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 15:41:32 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 15:41:45 MainPage:100 :mostPopularProductAtList - message:list of popular products with characteristics
+[INFO ] 2021-10-05 15:41:46 MainPage:104 :mostPopularProductAtList - message:[components.Product@56266bda]
+[INFO ] 2021-10-05 15:41:47 MainPage:104 :mostPopularProductAtList - message:[components.Product@56266bda, components.Product@671da0f9]
+[INFO ] 2021-10-05 15:49:32 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 15:49:32 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 15:49:43 MainPage:100 :mostPopularProductAtList - message:list of popular products with characteristics
+[INFO ] 2021-10-05 15:49:53 MainPage:104 :mostPopularProductAtList - message:[components.Product@47f0f414]
+[INFO ] 2021-10-05 15:49:54 MainPage:104 :mostPopularProductAtList - message:[components.Product@47f0f414, components.Product@789dd6bf]
+[INFO ] 2021-10-05 15:52:29 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 15:52:29 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 15:52:40 MainPage:100 :mostPopularProductAtList - message:list of popular products with characteristics
+[INFO ] 2021-10-05 15:54:29 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 15:54:29 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 15:54:37 MainPage:100 :mostPopularProductAtList - message:list of popular products with characteristics
+[INFO ] 2021-10-05 15:54:40 MainPage:104 :mostPopularProductAtList - message:[components.Product@794cb26b]
+[INFO ] 2021-10-05 15:54:41 MainPage:104 :mostPopularProductAtList - message:[components.Product@794cb26b, components.Product@43a59289]
+[INFO ] 2021-10-05 15:55:01 MainPage:104 :mostPopularProductAtList - message:[components.Product@794cb26b, components.Product@43a59289, components.Product@31e7afde]
+[INFO ] 2021-10-05 15:55:21 MainPage:104 :mostPopularProductAtList - message:[components.Product@794cb26b, components.Product@43a59289, components.Product@31e7afde, components.Product@3cb195dd]
+[INFO ] 2021-10-05 15:55:42 MainPage:104 :mostPopularProductAtList - message:[components.Product@794cb26b, components.Product@43a59289, components.Product@31e7afde, components.Product@3cb195dd, components.Product@376498da]
+[INFO ] 2021-10-05 15:56:02 MainPage:104 :mostPopularProductAtList - message:[components.Product@794cb26b, components.Product@43a59289, components.Product@31e7afde, components.Product@3cb195dd, components.Product@376498da, components.Product@53e28097]
+[INFO ] 2021-10-05 15:56:22 MainPage:104 :mostPopularProductAtList - message:[components.Product@794cb26b, components.Product@43a59289, components.Product@31e7afde, components.Product@3cb195dd, components.Product@376498da, components.Product@53e28097, components.Product@6fd7aba8]
+[INFO ] 2021-10-05 15:56:43 MainPage:104 :mostPopularProductAtList - message:[components.Product@794cb26b, components.Product@43a59289, components.Product@31e7afde, components.Product@3cb195dd, components.Product@376498da, components.Product@53e28097, components.Product@6fd7aba8, components.Product@36871e98]
+[INFO ] 2021-10-05 15:56:46 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed T-Shirt
+[INFO ] 2021-10-05 15:56:46 CheckPopularProductTest:24 :checkPopularProduct - message:Hummingbird Printed Sweater
+[INFO ] 2021-10-05 15:56:46 CheckPopularProductTest:24 :checkPopularProduct - message:The Best Is Yet To Come'...
+[INFO ] 2021-10-05 15:56:46 CheckPopularProductTest:24 :checkPopularProduct - message:The Adventure Begins Framed...
+[INFO ] 2021-10-05 15:56:46 CheckPopularProductTest:24 :checkPopularProduct - message:Today Is A Good Day Framed...
+[INFO ] 2021-10-05 15:56:46 CheckPopularProductTest:24 :checkPopularProduct - message:Mug The Best Is Yet To Come
+[INFO ] 2021-10-05 15:56:46 CheckPopularProductTest:24 :checkPopularProduct - message:Mug The Adventure Begins
+[INFO ] 2021-10-05 15:56:46 CheckPopularProductTest:24 :checkPopularProduct - message:Mug Today Is A Good Day
+[INFO ] 2021-10-05 17:28:46 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 17:28:47 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 17:28:58 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 17:50:54 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 17:50:54 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 17:51:07 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 17:54:36 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 17:54:36 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 17:54:50 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 17:54:54 PriceDropCheckTest:32 :priceDropCheck - message:-20.009285051067778
+[INFO ] 2021-10-05 17:54:55 PriceDropCheckTest:32 :priceDropCheck - message:-20.013947001394698
+[INFO ] 2021-10-05 18:01:14 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:01:14 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:01:29 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 18:01:36 PriceDropCheckTest:33 :priceDropCheck - message:-20
+[INFO ] 2021-10-05 18:01:36 PriceDropCheckTest:33 :priceDropCheck - message:-20
+[INFO ] 2021-10-05 18:07:19 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:07:19 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:07:32 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 18:09:51 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:09:51 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:10:13 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 18:11:26 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:11:27 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:11:40 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 18:43:41 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:43:41 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:44:00 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 18:44:07 PriceDropCheckTest:33 :priceDropCheck - message:-20
+[INFO ] 2021-10-05 18:44:09 PriceDropCheckTest:33 :priceDropCheck - message:-20
+[INFO ] 2021-10-05 18:46:13 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:46:13 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:46:25 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 18:50:44 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:50:44 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:51:00 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 18:51:44 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:51:44 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:51:59 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 18:55:41 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 18:55:41 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 18:55:53 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 19:05:37 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 19:05:37 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 19:06:03 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 19:13:14 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 19:13:14 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 19:13:32 OnSalePage:28 :priceDropCheck - message:list of drop sale
+[INFO ] 2021-10-05 19:13:44 PriceDropCheckTest:37 :priceDropCheck - message:20.00
+[INFO ] 2021-10-05 19:13:44 PriceDropCheckTest:38 :priceDropCheck - message:20.0
+[INFO ] 2021-10-05 19:13:44 PriceDropCheckTest:37 :priceDropCheck - message:20.00
+[INFO ] 2021-10-05 19:13:44 PriceDropCheckTest:38 :priceDropCheck - message:20.0
+[INFO ] 2021-10-05 19:16:24 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 19:16:24 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 19:17:06 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 19:17:06 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:15 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:16 MainPage:95 :allLanguageListGet - message:foreach has started to retrieve a list of languages
+[INFO ] 2021-10-05 19:17:23 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 19:17:23 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe
+[INFO ] 2021-10-05 19:17:33 WebDriverManager:958 :resolveDriverVersion - message:Using chromedriver 94.0.4606.61 (resolved driver for Chrome 94)
+[INFO ] 2021-10-05 19:17:33 WebDriverManager:1013 :exportDriver - message:Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win32\94.0.4606.61\chromedriver.exe

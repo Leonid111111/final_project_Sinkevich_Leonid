@@ -2,6 +2,7 @@ import org.assertj.core.api.SoftAssertions;
 import org.testng.annotations.Test;
 import pages.MainPage;
 
+
 public class SubscribeTest extends BaseTest {
 
 
@@ -24,14 +25,12 @@ public class SubscribeTest extends BaseTest {
         String actualTextUnderEmailField = mainPage.getFooter()
                 .youMayUnsubscribeAtAnyMomentGetText();
 
-
         String actualAllCharacterInUpperCase = mainPage.getFooter()
                 .subscribeButtonInUpperCase();
 
         String actualTextSubscribeButton = mainPage.getFooter()
                 .subscribeButtonGetText();
         System.out.println(actualTextSubscribeButton);
-
 
         SoftAssertions softAssertions = new SoftAssertions();
         softAssertions.assertThat(actualTextNearTheEmailField)
@@ -47,7 +46,7 @@ public class SubscribeTest extends BaseTest {
                 .isEqualTo(ExpectedAllCharacterInUpperCase);
 
         softAssertions.assertThat(actualTextSubscribeButton)
-                        .as("The text displayed on the button not is expected")
+                .as("The text displayed on the button not is expected")
                 .isEqualTo(ExpectedTextSubscribeButton);
 
         softAssertions.assertAll();
