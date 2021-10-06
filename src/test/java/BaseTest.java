@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 public abstract class BaseTest {
 
     @BeforeClass
-    public synchronized void setUp() {
+    public static synchronized void setUp() {
 
         String browser = System.getProperty("browser");
 

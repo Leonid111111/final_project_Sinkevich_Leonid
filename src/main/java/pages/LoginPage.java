@@ -24,8 +24,8 @@ public class LoginPage extends BasePage {
     }
 
     public RegistrationPage createdNewAccountUsedClick() {
-        createdNewAccountUsed.click();
         log.info("Click on the new user registration button");
+        createdNewAccountUsed.click();
         return new RegistrationPage();
     }
 }

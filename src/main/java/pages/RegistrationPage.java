@@ -52,55 +52,62 @@ public class RegistrationPage extends BasePage {
     }
 
     public RegistrationPage genderCheckBoxNewUserClick() {
+        log.info("Choose gender in checkbox");
         genderCheckBoxNewUser.click();
         log.info("Click on the gender checkBox, Mr.");
         return this;
     }
 
     public RegistrationPage firstNameFieldNewUserDataEntry(String firstName) {
+        log.info("Enter the first name of the new user");
         firstNameFieldNewUser.sendKeys(firstName);
-        log.info("Fill in the field with the firstName");
         return this;
     }
 
     public RegistrationPage lastNameFieldNewUserDataEntry(String lastName) {
+        log.info("Enter the last name of the new user");
         lastNameFieldNewUser.sendKeys(lastName);
-        log.info("Fill in the field with the lastName");
-        return this;
+         return this;
     }
 
     public RegistrationPage eMailFieldNewUserDataEntry(String eMail) {
+        log.info("Enter the eMail of the new user");
         eMailFieldNewUser.sendKeys(eMail);
         return this;
     }
 
     public RegistrationPage passwordNewUserFieldClick(String password) {
+        log.info("Enter the password of the new user");
         passwornNewUserField.sendKeys(password);
         return this;
     }
 
     public RegistrationPage birthdateFieldNewUserDataEntry(String birthdate) {
+        log.info("Enter the birthday of the new user");
         birthdateFieldNewUser.sendKeys(birthdate);
         return this;
     }
 
     public RegistrationPage customerDataPrivacyCheckBoxNewUserClick() {
+        log.info("Confirm customer Data Privacy");
         customerDataPrivacyCheckBoxNewUser.click();
         return this;
     }
 
     public RegistrationPage iAgreePrivacyPolicyCheckBoxNewUserClick() {
+        log.info("Confirm Privacy Policy Check Box");
         iAgreePrivacyPolicyCheckBoxNewUser.click();
         return this;
     }
 
     public RegistrationPage saveButtonNewUserClick() {
+        log.info("Click on the button to create a new user");
         saveButtonNewUser.click();
         return this;
     }
 
     public String highlighterGetValue() {
-        log.info("Highlighter frame color data");
+        log.info("Highlighter frame color data get value");
         return highlighterColor.getCssValue("outline-color");
     }
 

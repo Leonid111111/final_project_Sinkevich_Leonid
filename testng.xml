@@ -1,24 +1,23 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 
-<suite name="Subscribe suite" verbose="1" parallel="classes" thread-count="2">
-    <test name="SubscribeTest">
+<suite name="all tests" verbose="1" parallel="methods" thread-count="2">
+    <test name="ActionsTest">
+        <classes>
+            <class name="CheckCategoriesTest"/>
+            <class name="CheckLanguageTest"/>
+            </classes>
+    </test>
+    <test name="RegistrationTest">
         <classes>
             <class name="SubscribeTest"/>
-        </classes>
-    </test>
-    <test name="CheckLanguageTest">
-        <classes>
-            <class name="CheckLanguageTest"/>
-        </classes>
-    </test>
-    <test name="RegistrationWithValidDate">
-        <classes>
             <class name="RegistrationWithValidDate"/>
+            <class name="RegistrationWithInvalidData"/>
         </classes>
     </test>
-    <test name="RegistrationWithInvalidData">
+    <test name="Check the product">
         <classes>
-            <class name="RegistrationWithInvalidData"/>
+            <class name="CheckPopularProductTest"/>
+            <class name="PriceDropCheckTest"/>
         </classes>
     </test>
 </suite>
