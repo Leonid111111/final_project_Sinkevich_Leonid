@@ -37,6 +37,7 @@ public class PriceDropCheckTest extends BaseTest {
             softAssertions.assertThat(product.getDoubleDiscount())
                     .as("Not all goods have a Old Price ")
                     .isEqualTo(expectedValue.doubleValue());
+            softAssertions.assertAll();
         }
     }
 

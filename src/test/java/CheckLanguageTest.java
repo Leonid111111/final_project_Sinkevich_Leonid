@@ -13,7 +13,6 @@ public class CheckLanguageTest extends BaseTest {
 
         MainPage mainPage = new MainPage();
         List<String> allLanguageFromSite = mainPage.allLanguageListGet();
-        System.out.println(allLanguageFromSite);
 
         SoftAssertions softAssertions = new SoftAssertions();
         softAssertions.assertThat(allLanguageFromSite)

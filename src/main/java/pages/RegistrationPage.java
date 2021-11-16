@@ -76,7 +76,7 @@ public class RegistrationPage extends BasePage {
         return this;
     }
 
-    public RegistrationPage passwordNewUserFieldClick(String password) {
+    public RegistrationPage passwordNewUserFieldEntry(String password) {
         log.info("Enter the password of the new user");
         passwornNewUserField.sendKeys(password);
         return this;

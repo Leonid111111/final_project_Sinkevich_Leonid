@@ -21,20 +21,22 @@ public class CheckPopularProductTest extends BaseTest {
             softAssertions.assertThat(product.getNameAsString())
                     .as("Every product not has name")
                     .isNotNull();
-            log.info(product.getNameAsString());
+
         }
         for (Product product : actualPopularProduct) {
             softAssertions.assertThat(product.getCurrentPriceAsDouble())
                     .as("Every product not has price")
                     .isNotNull();
+
         }
 
         for (Product product1 : actualPopularProduct) {
             softAssertions.assertThat(product1.getCurrentPriceAsDouble())
                     .as("Product price is not more than 0")
                     .isGreaterThan(0);
-            softAssertions.assertAll();
+
         }
+        softAssertions.assertAll();
     }
 }
 

@@ -19,12 +19,12 @@ public class RegistrationWithInvalidData extends BaseTest {
         String expectedColorBoarder = "rgba(255, 76, 76, 1)";
 
         String actualPopUpText = mainPage.signInClick()
-                .createdNewAccountUsedClick()
+                .newAccountClick()
                 .genderCheckBoxNewUserClick()
                 .firstNameFieldNewUserDataEntry("James8")
                 .lastNameFieldNewUserDataEntry(registrationPage.lastName)
                 .eMailFieldNewUserDataEntry(registrationPage.eMail)
-                .passwordNewUserFieldClick(registrationPage.password)
+                .passwordNewUserFieldEntry(registrationPage.password)
                 .birthdateFieldNewUserDataEntry("10/10/1990").
                 iAgreePrivacyPolicyCheckBoxNewUserClick()
                 .customerDataPrivacyCheckBoxNewUserClick()

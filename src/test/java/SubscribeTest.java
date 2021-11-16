@@ -10,10 +10,10 @@ public class SubscribeTest extends BaseTest {
     public void checkOfSubscribeModule() {
 
 
-        String ExpectedTextNearTheEmailField = "Get our latest news and special sales";
-        String ExpectedTextUnderEmailField = "You may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice.";
-        String ExpectedTextSubscribeButton = "Subscribe";
-        String ExpectedAllCharacterInUpperCase = "uppercase";
+        String expectedTextNearTheEmailField = "Get our latest news and special sales";
+        String expectedTextUnderEmailField = "You may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice.";
+        String expectedTextSubscribeButton = "Subscribe";
+        String expectedAllCharacterInUpperCase = "uppercase";
 
         MainPage mainPage = new MainPage();
 
@@ -35,19 +35,19 @@ public class SubscribeTest extends BaseTest {
         SoftAssertions softAssertions = new SoftAssertions();
         softAssertions.assertThat(actualTextNearTheEmailField)
                 .as("The text displayed on the site not is expected")
-                .isEqualTo(ExpectedTextNearTheEmailField);
+                .isEqualTo(expectedTextNearTheEmailField);
 
         softAssertions.assertThat(actualTextUnderEmailField)
                 .as("The text displayed on the site not is expected")
-                .isEqualTo(ExpectedTextUnderEmailField);
+                .isEqualTo(expectedTextUnderEmailField);
 
         softAssertions.assertThat(actualAllCharacterInUpperCase)
                 .as("The inscription on the button signature is written not in UpperCase")
-                .isEqualTo(ExpectedAllCharacterInUpperCase);
+                .isEqualTo(expectedAllCharacterInUpperCase);
 
         softAssertions.assertThat(actualTextSubscribeButton)
                 .as("The text displayed on the button not is expected")
-                .isEqualTo(ExpectedTextSubscribeButton);
+                .isEqualTo(expectedTextSubscribeButton);
 
         softAssertions.assertAll();
 

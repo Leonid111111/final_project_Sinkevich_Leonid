@@ -16,12 +16,12 @@ public class RegistrationWithValidDate extends BaseTest {
         String actualResult = registrationPage.firstName + " " + registrationPage.lastName;
 
         String nameNewUser = mainPage.signInClick()
-                .createdNewAccountUsedClick()
+                .newAccountClick()
                 .genderCheckBoxNewUserClick()
                 .firstNameFieldNewUserDataEntry(registrationPage.firstName)
                 .lastNameFieldNewUserDataEntry(registrationPage.lastName)
                 .eMailFieldNewUserDataEntry(registrationPage.eMail)
-                .passwordNewUserFieldClick(registrationPage.password)
+                .passwordNewUserFieldEntry(registrationPage.password)
                 .birthdateFieldNewUserDataEntry("10/10/1990").
                 iAgreePrivacyPolicyCheckBoxNewUserClick()
                 .customerDataPrivacyCheckBoxNewUserClick()
@@ -33,7 +33,7 @@ public class RegistrationWithValidDate extends BaseTest {
                 .as("The username of the created user does not match expectations")
                 .isEqualTo(nameNewUser);
         softAssertions.assertAll();
-        ;
+
 
 
     }

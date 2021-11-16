@@ -23,7 +23,7 @@ public class LoginPage extends BasePage {
         PageFactory.initElements(getDriver(), this);
     }
 
-    public RegistrationPage createdNewAccountUsedClick() {
+    public RegistrationPage newAccountClick() {
         log.info("Click on the new user registration button");
         createdNewAccountUsed.click();
         return new RegistrationPage();
